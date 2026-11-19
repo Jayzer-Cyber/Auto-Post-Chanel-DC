@@ -1,5 +1,6 @@
 {
-  "versi": "7.0.1",
+  "versi": "7.0.2",
+  "maintenance": true,
   "catatan": "Pembaruan sistem dan stabilitas",
   "url_zip": "https://githubusercontent.com"
 }
