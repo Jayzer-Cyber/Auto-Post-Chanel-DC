@@ -1,5 +1,11 @@
 {
   "mode_online": true,
-  "updated_at": 1795181047,
-  "users": {}
+  "updated_at": 1795218842,
+  "users": {
+    "DC-ADFGYTEHS": {
+      "aktif": true,
+      "durasi_hari": 1,
+      "exp_ts": 0
+    }
+  }
 }
