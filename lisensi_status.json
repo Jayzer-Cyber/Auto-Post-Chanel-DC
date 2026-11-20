@@ -1,11 +1,5 @@
 {
   "mode_online": true,
-  "updated_at": 1795181015,
-  "users": {
-    "DC-SJDJEKKED": {
-      "aktif": true,
-      "durasi_hari": 3,
-      "exp_ts": 0
-    }
-  }
+  "updated_at": 1795181047,
+  "users": {}
 }
