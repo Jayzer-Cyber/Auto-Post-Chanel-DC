@@ -1,9 +1,9 @@
 {
   "mode_online": true,
-  "updated_at": 1795180927,
+  "updated_at": 1795180946,
   "users": {
     "DC-AAA": {
-      "aktif": false,
+      "aktif": true,
       "durasi_hari": 1,
       "exp_ts": 0
     }
