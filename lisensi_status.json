@@ -1,11 +1,11 @@
 {
   "mode_online": true,
-  "updated_at": 1795218842,
+  "updated_at": 1795277305,
   "users": {
-    "DC-ADFGYTEHS": {
-      "aktif": true,
-      "durasi_hari": 1,
-      "exp_ts": 0
+    "DC-9AE5-4195-35EB": {
+      "nama": "Jayzer",
+      "aktif": false,
+      "exp_ts": 1795279789
     }
   }
 }
