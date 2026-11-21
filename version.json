@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.1",
-  "maintenance": false,
-  "catatan": "Pembaruan tampilan kategori dan stabilitas",
+  "versi": "7.0.2",
+  "maintenance": true,
+  "catatan": "Fix Bug Error",
   "url_zip": "https://githubusercontent.com"
 }
