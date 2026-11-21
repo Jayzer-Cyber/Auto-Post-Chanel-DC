@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.2",
-  "maintenance": false,
-  "catatan": "Perbaikan UI 52 kolom presisi, jeda multi-nomor & rentang, ikon status [\u2713]/[\u2717], dan auto-installer",
+  "versi": "7.0.3",
+  "maintenance": true,
+  "catatan": "Pembaruan tampilan kategori dan stabilitas",
   "url_zip": "https://githubusercontent.com"
 }
