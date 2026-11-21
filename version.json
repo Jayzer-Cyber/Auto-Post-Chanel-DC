@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.1",
-  "maintenance": false,
-  "catatan": "Pembaruan sistem dan stabilitas",
-  "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/"
+  "versi": "7.0.2",
+  "maintenance": true,
+  "catatan": "Perbaikan UI 52 kolom presisi, jeda multi-nomor & rentang, ikon status [\u2713]/[\u2717], dan auto-installer",
+  "url_zip": "https://githubusercontent.com"
 }
