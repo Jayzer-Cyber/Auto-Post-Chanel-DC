@@ -1,6 +1,6 @@
 {
   "versi": "7.0.4",
-  "maintenance": true,
+  "maintenance": false,
   "catatan": "Perbaikan Kategori & Sub Kategori",
   "url_zip": "https://githubusercontent.com"
 }
