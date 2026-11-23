@@ -1,11 +1,16 @@
 {
   "mode_online": true,
-  "updated_at": 1795280949,
+  "updated_at": 1795449084,
   "users": {
     "DC-9AE5-4195-35EB": {
       "nama": "Jayzer",
       "aktif": true,
       "exp_ts": 1795884705
+    },
+    "DC-C059-5FAA-AC0B": {
+      "nama": "Samsung",
+      "aktif": true,
+      "exp_ts": 1796053884
     }
   }
 }
