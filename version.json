@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.13",
-  "maintenance": false,
-  "catatan": "Perbaikan penumpukan frame & teks progress auto-post",
+  "versi": "7.0.14",
+  "maintenance": true,
+  "catatan": "Fix struktur kategori & sub-kategori pesan pada user",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
