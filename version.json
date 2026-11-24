@@ -1,6 +1,6 @@
 {
   "versi": "7.0.6",
-  "maintenance": true,
+  "maintenance": false,
   "catatan": "Fix Upgrade",
   "url_zip": "https://githubusercontent.compost-dc.zip"
 }
