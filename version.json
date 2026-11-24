@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.22",
-  "maintenance": false,
-  "catatan": "Fix sinkronisasi verifikasi pesan & status slowmode DC (HTTP 429)",
+  "versi": "7.0.23",
+  "maintenance": true,
+  "catatan": "Fix filter buying list Vend Finder & background auto-update watcher",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
