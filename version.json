@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.14",
-  "maintenance": false,
-  "catatan": "Fix struktur kategori & sub-kategori pesan pada user",
+  "versi": "7.0.15",
+  "maintenance": true,
+  "catatan": "Fix",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
