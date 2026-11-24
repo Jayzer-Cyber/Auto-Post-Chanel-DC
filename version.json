@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.7",
-  "maintenance": false,
-  "catatan": "Perbaikan Bug Error",
+  "versi": "7.0.8",
+  "maintenance": true,
+  "catatan": "Fix Menu Freeze di Termux",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
