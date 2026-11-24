@@ -1,6 +1,6 @@
 {
   "versi": "7.0.21",
-  "maintenance": true,
+  "maintenance": false,
   "catatan": "RILIS v7.0.21] Fix pemetaan multi-token & efisiensi tampilan jeda waktu berjalan",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
