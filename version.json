@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.12",
-  "maintenance": false,
-  "catatan": "Perbaikan koneksi update cepat, background auto-post, dan frame input",
+  "versi": "7.0.13",
+  "maintenance": true,
+  "catatan": "Perbaikan penumpukan frame & teks progress auto-post",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
