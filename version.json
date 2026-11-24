@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.6",
-  "maintenance": false,
-  "catatan": "Fix Upgrade",
-  "url_zip": "https://githubusercontent.compost-dc.zip"
+  "versi": "7.0.7",
+  "maintenance": true,
+  "catatan": "Perbaikan Bug Error",
+  "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
