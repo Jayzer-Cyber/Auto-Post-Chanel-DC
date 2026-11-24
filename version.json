@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.23",
-  "maintenance": false,
-  "catatan": "Fix filter buying list Vend Finder & background auto-update watcher",
+  "versi": "7.0.24",
+  "maintenance": true,
+  "catatan": "Perapian tampilan layar update & panduan saran ideal jeda file",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
