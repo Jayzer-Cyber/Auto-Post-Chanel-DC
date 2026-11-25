@@ -1,6 +1,6 @@
 {
   "versi": "7.0.25",
-  "maintenance": true,
+  "maintenance": false,
   "catatan": "[RILIS v7.0.25] Fix visibilitas ketikan input multibaris & isolasi termios saat background auto-post aktif",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
