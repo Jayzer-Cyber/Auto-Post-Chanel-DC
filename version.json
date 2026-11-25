@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.35",
-  "maintenance": false,
+  "versi": "7.0.36",
+  "maintenance": true,
   "catatan": "Pembaruan tampilan kategori dan stabilitas",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
