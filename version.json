@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.24",
-  "maintenance": false,
-  "catatan": "Perapian tampilan layar update & panduan saran ideal jeda file",
+  "versi": "7.0.25",
+  "maintenance": true,
+  "catatan": "[RILIS v7.0.25] Fix visibilitas ketikan input multibaris & isolasi termios saat background auto-post aktif",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
