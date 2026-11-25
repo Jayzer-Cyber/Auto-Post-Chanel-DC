@@ -1,10 +1,10 @@
 {
   "mode_online": true,
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_whitelist": [
     "DC-9AE5-4195-35EB"
   ],
-  "updated_at": 1795604160,
+  "updated_at": 1795604241,
   "users": {
     "DC-9AE5-4195-35EB": {
       "nama": "Jayzer",
