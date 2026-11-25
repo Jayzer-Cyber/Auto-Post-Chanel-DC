@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.26",
-  "maintenance": false,
-  "catatan": "Penambahan saklar maintenance global & penyempurnaan sistem auto-update",
+  "versi": "7.0.27",
+  "maintenance": true,
+  "catatan": "Uprefresh",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
