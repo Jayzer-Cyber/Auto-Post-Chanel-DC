@@ -1,6 +1,6 @@
 {
-  "versi": "7.0.27",
-  "maintenance": false,
-  "catatan": "Uprefresh",
+  "versi": "7.0.28",
+  "maintenance": true,
+  "catatan": "refresh",
   "url_zip": "https://raw.githubusercontent.com/Jayzer-Cyber/Auto-Post-Chanel-DC/main/post-dc.zip"
 }
