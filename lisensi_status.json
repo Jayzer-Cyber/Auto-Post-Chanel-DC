@@ -4,12 +4,12 @@
   "maintenance_whitelist": [
     "DC-9AE5-4195-35EB"
   ],
-  "updated_at": 1795602598,
+  "updated_at": 1795603815,
   "users": {
     "DC-9AE5-4195-35EB": {
       "nama": "Jayzer",
       "aktif": true,
-      "exp_ts": 1795884705
+      "exp_ts": 1796208604
     },
     "DC-C059-5FAA-AC0B": {
       "nama": "Samsung",
